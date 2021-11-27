@@ -9,6 +9,9 @@ import UIKit
 
 class Constants: NSObject {
     
+    //SEARCH
+    static let kSEARCH_CHAR_SET_En = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890.@_ -"
+
     //Constant
     static let kAuthorization = "Authorization"
     static let kBasic = "Basic YWRpZGFhczpEaXN5c0AzMjE="
